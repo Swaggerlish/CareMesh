@@ -9,6 +9,15 @@ It helps users:
 - simulate or process payments
 - chat with a hosted AI assistant from the backend
 
+## Team Roles and Contributions
+CareMesh was developed as a collaborative effort during a hackathon, with each team member playing a distinct and complementary role in bringing the idea to life.
+
+## Team Lead – Abiodun Hafeez Akindipe
+Abiodun conceived the core idea for CareMesh and led the technical direction of the project as the backend engineer. He designed and implemented the backend architecture, including the API endpoints and integration with the database, ensuring that the application logic, data flows, and performance aligned with the product goals. Abiodun also set up and managed the project’s deployment pipeline, deploying the backend on Render and the frontend on Vercel, and created and organized the GitHub repository that served as the central hub for collaboration and version control.
+
+## Team Member – Rofeeq Adeleke Shittu
+Rofeeq was responsible for the frontend development of CareMesh, translating the product vision into a responsive and user-friendly interface. He implemented the user experience and visual design, integrating the frontend seamlessly with the backend APIs. In addition to his engineering work, Rofeeq documented the project’s concept and functionality, authored the initial README, and curated the dataset used in the application, ensuring that the data supported the intended use cases and overall solution narrative.
+
 ## Stack
 
 - Frontend: React + Vite

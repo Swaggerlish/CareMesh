@@ -40,7 +40,6 @@ export default function App() {
   const [lgaOptions, setLgaOptions] = useState([])
   const [hospitalOptions, setHospitalOptions] = useState([])
   const [selectedHospitalId, setSelectedHospitalId] = useState('')
-  const [isTestMode, setIsTestMode] = useState(true)
   const [isOfflineMode, setIsOfflineMode] = useState(() => readCache('offline-mode', false))
   const [networkOnline, setNetworkOnline] = useState(() => window.navigator.onLine)
   const [planning, setPlanning] = useState(null)
@@ -307,12 +306,6 @@ export default function App() {
         <div className="hero-controls">
         <div className="mode-toggle">
           <label>
-            <input type="checkbox" checked={isTestMode} onChange={(e) => setIsTestMode(e.target.checked)} />
-            Test Mode ({isTestMode ? 'Payload Simulator' : 'Live Interswitch'})
-          </label>
-        </div>
-        <div className="mode-toggle">
-          <label>
             <input type="checkbox" checked={isOfflineMode} onChange={(e) => setIsOfflineMode(e.target.checked)} />
             Connection Mode ({offlineActive ? 'Offline' : 'Online'})
           </label>
@@ -375,7 +368,7 @@ export default function App() {
         <ChatBox state={state} lga={lga} hospitals={hospitalOptions} isOfflineMode={offlineActive} />
       </section>
 
-      {selectedHospital && <BookingModal hospital={selectedHospital} onClose={() => setSelectedHospital(null)} isTestMode={isTestMode} isOfflineMode={offlineActive} />}
+      {selectedHospital && <BookingModal hospital={selectedHospital} onClose={() => setSelectedHospital(null)} isTestMode={false} isOfflineMode={offlineActive} />}
     </div>
   )
 }
