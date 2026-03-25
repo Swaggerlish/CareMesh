@@ -10,7 +10,7 @@ It helps users:
 - chat with a hosted AI assistant from the backend
 
 ## Team Roles and Contributions
-CareMesh was developed as a collaborative effort during a hackathon, with each team member playing a distinct and complementary role in bringing the idea to life.
+CareMesh was developed as a collaborative effort during the buildathon, with each team member playing a distinct and complementary role in bringing the idea to life.
 
 ## Team Lead – Abiodun Hafeez Akindipe
 Abiodun conceived the core idea for CareMesh and led the technical direction of the project as the backend engineer. He designed and implemented the backend architecture, including the API endpoints and integration with the database, ensuring that the application logic, data flows, and performance aligned with the product goals. Abiodun also set up and managed the project’s deployment pipeline, deploying the backend on Render and the frontend on Vercel, and created and organized the GitHub repository that served as the central hub for collaboration and version control.
@@ -139,6 +139,7 @@ These are used for:
 - facilities summary
 - medical desert detection
 - inventory signals
+- interswitch API webcheckout
 
 ## Build Checks
 
