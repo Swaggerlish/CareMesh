@@ -25,7 +25,6 @@ export default function ChatBox({ state, lga, hospitals = [], isOfflineMode = fa
   ])
   const [input, setInput] = useState('')
   const [loading, setLoading] = useState(false)
-  const [assistantStatus, setAssistantStatus] = useState('Hosted Hugging Face model')
 
   async function submit(e) {
     e.preventDefault()
@@ -37,21 +36,12 @@ export default function ChatBox({ state, lga, hospitals = [], isOfflineMode = fa
     try {
       if (isOfflineMode) {
         const offlineReply = buildOfflineReply(userMessage, state, lga, hospitals)
-        setAssistantStatus('Offline demo assistant')
         setMessages((prev) => [...prev, { role: 'assistant', content: offlineReply }])
         return
       }
       const response = await sendChat(userMessage, state || undefined, lga || undefined)
-      if (response.model === 'fallback-assistant') {
-        setAssistantStatus('Selected HF model is not supported by your enabled provider')
-      } else if (response.reply.includes('switched to fallback model')) {
-        setAssistantStatus(`Using fallback Hugging Face model: ${response.model}`)
-      } else {
-        setAssistantStatus(`Using model: ${response.model}`)
-      }
       setMessages((prev) => [...prev, { role: 'assistant', content: response.reply }])
     } catch {
-      setAssistantStatus('AI assistant is unavailable right now')
       setMessages((prev) => [...prev, { role: 'assistant', content: 'AI assistant is unavailable right now.' }])
     } finally {
       setLoading(false)
@@ -62,7 +52,6 @@ export default function ChatBox({ state, lga, hospitals = [], isOfflineMode = fa
     <div className="card chat-card">
       <div className="card-header">
         <h3>CareMesh AI</h3>
-        <span className="badge">{assistantStatus}</span>
       </div>
       <div className="chat-stream">
         {messages.map((msg, index) => (
