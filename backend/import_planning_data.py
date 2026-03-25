@@ -12,13 +12,19 @@ from app.models.lga_profile import LgaProfile
 def _to_int(value: str | None) -> int | None:
     if value in (None, ''):
         return None
-    return int(float(value))
+    try:
+        return int(float(str(value).strip().replace(',', '')))
+    except (TypeError, ValueError):
+        return None
 
 
 def _to_float(value: str | None) -> float | None:
     if value in (None, ''):
         return None
-    return float(value)
+    try:
+        return float(str(value).strip().replace(',', ''))
+    except (TypeError, ValueError):
+        return None
 
 
 def _to_bool(value: str | None) -> bool:
