@@ -35,6 +35,10 @@ def import_lga_profiles(csv_path: Path) -> int:
     db = SessionLocal()
     count = 0
     try:
+        profile_cache: dict[tuple[str, str], LgaProfile] = {
+            (profile.state, profile.lga): profile
+            for profile in db.query(LgaProfile).all()
+        }
         with csv_path.open('r', encoding='utf-8-sig', newline='') as handle:
             for row in csv.DictReader(handle):
                 state = (row.get('state') or '').strip()
@@ -42,10 +46,12 @@ def import_lga_profiles(csv_path: Path) -> int:
                 if not state or not lga:
                     continue
 
-                profile = db.query(LgaProfile).filter(LgaProfile.state == state, LgaProfile.lga == lga).first()
+                key = (state, lga)
+                profile = profile_cache.get(key)
                 if not profile:
                     profile = LgaProfile(state=state, lga=lga)
                     db.add(profile)
+                    profile_cache[key] = profile
 
                 profile.population = _to_int(row.get('population'))
                 profile.centroid_latitude = _to_float(row.get('centroid_latitude'))
