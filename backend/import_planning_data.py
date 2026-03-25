@@ -40,12 +40,15 @@ def import_lga_profiles(csv_path: Path) -> int:
             for profile in db.query(LgaProfile).all()
         }
         with csv_path.open('r', encoding='utf-8-sig', newline='') as handle:
+            deduped_rows: dict[tuple[str, str], dict[str, str | None]] = {}
             for row in csv.DictReader(handle):
                 state = (row.get('state') or '').strip()
                 lga = (row.get('lga') or '').strip()
                 if not state or not lga:
                     continue
+                deduped_rows[(state, lga)] = row
 
+            for (state, lga), row in deduped_rows.items():
                 key = (state, lga)
                 profile = profile_cache.get(key)
                 if not profile:
