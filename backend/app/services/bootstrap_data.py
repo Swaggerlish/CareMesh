@@ -49,6 +49,11 @@ def _map_services(level: str, option: str, ownership: str) -> tuple[str, str]:
     return ', '.join(sorted(set(services))), ', '.join(sorted(set(capabilities)))
 
 
+def _deterministic_coordinate_offset(seed: str) -> float:
+    total = sum(ord(char) for char in seed)
+    return ((total % 21) - 10) * 0.002
+
+
 def _bootstrap_registry_hospitals_from_capacity_csv(csv_path: Path, db: Session) -> int:
     existing_registry_ids = {
         registry_id
@@ -101,6 +106,32 @@ def _bootstrap_registry_hospitals_from_capacity_csv(csv_path: Path, db: Session)
     return created
 
 
+def _backfill_hospital_coordinates_from_lga_profiles(db: Session) -> int:
+    profiles = {
+        (profile.state.strip().lower(), profile.lga.strip().lower()): profile
+        for profile in db.query(LgaProfile).all()
+        if profile.state and profile.lga and profile.centroid_latitude is not None and profile.centroid_longitude is not None
+    }
+    updated = 0
+
+    hospitals = db.query(Hospital).filter(Hospital.latitude.is_(None), Hospital.longitude.is_(None)).all()
+    for hospital in hospitals:
+        key = (hospital.state.strip().lower(), hospital.lga.strip().lower())
+        profile = profiles.get(key)
+        if not profile:
+            continue
+
+        seed = hospital.registry_id or hospital.name
+        offset = _deterministic_coordinate_offset(seed)
+        hospital.latitude = profile.centroid_latitude + offset
+        hospital.longitude = profile.centroid_longitude - offset
+        updated += 1
+
+    if updated:
+        db.commit()
+    return updated
+
+
 def ensure_bootstrap_data() -> None:
     db = SessionLocal()
     try:
@@ -116,6 +147,11 @@ def ensure_bootstrap_data() -> None:
         if lga_profile_count == 0 and LGA_PROFILES_CSV.exists():
             imported_profiles = import_lga_profiles(LGA_PROFILES_CSV)
             logger.info('Imported %s LGA planning profiles from %s', imported_profiles, LGA_PROFILES_CSV.name)
+
+        missing_coordinates = db.query(Hospital).filter(Hospital.latitude.is_(None), Hospital.longitude.is_(None)).count()
+        if missing_coordinates > 0 and db.query(LgaProfile).count() > 0:
+            updated_coordinates = _backfill_hospital_coordinates_from_lga_profiles(db)
+            logger.info('Backfilled coordinates for %s hospitals from LGA centroids', updated_coordinates)
 
         if capacity_count == 0 and registry_hospital_count > 0 and HOSPITAL_CAPACITIES_CSV.exists():
             imported_capacities = import_hospital_capacities(HOSPITAL_CAPACITIES_CSV)
