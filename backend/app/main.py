@@ -6,6 +6,7 @@ from app.core.config import settings
 from app.db.base import Base
 from app.db.session import engine
 from app import models  # noqa: F401
+from app.services.bootstrap_data import ensure_bootstrap_data
 
 
 def create_app() -> FastAPI:
@@ -20,6 +21,7 @@ def create_app() -> FastAPI:
     )
 
     Base.metadata.create_all(bind=engine)
+    ensure_bootstrap_data()
     app.include_router(api_router, prefix=settings.api_prefix)
 
     @app.get('/')
