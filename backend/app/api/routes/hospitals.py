@@ -87,3 +87,6 @@ def validate_hospital(registry_id: str, db: Session = Depends(get_db)):
     if not hospital:
         raise HTTPException(status_code=404, detail="Hospital not found in registry")
     return hospital
+@router.get('/debug/count')
+def debug_hospital_count(db: Session = Depends(get_db)):
+    return {"count": db.query(Hospital).count()}
