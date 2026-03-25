@@ -1,0 +1,39 @@
+services:
+  - type: web
+    name: caremesh-api
+    env: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: FRONTEND_URL
+        sync: false
+      - key: APP_REDIRECT_URL
+        sync: false
+      - key: INTERSWITCH_MERCHANT_CODE
+        sync: false
+      - key: INTERSWITCH_PAY_ITEM_ID
+        sync: false
+      - key: INTERSWITCH_CLIENT_ID
+        sync: false
+      - key: INTERSWITCH_SECRET_KEY
+        sync: false
+      - key: INTERSWITCH_MODE
+        value: TEST
+      - key: HF_TOKEN
+        sync: false
+      - key: HF_MODEL
+        value: CohereLabs/tiny-aya-global:cohere
+      - key: HF_FALLBACK_MODELS
+        value: zai-org/GLM-5:together,zai-org/GLM-4.7:cerebras
+      - key: HF_BASE_URL
+        value: https://router.huggingface.co/v1/chat/completions
+      - key: HF_MAX_TOKENS
+        value: 220
+      - key: HF_TIMEOUT_SECONDS
+        value: 45
+      - key: HF_TEMPERATURE
+        value: 0.3

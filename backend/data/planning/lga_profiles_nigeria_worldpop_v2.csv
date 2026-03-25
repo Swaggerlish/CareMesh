@@ -1,0 +1,713 @@
+state,lga,population,centroid_latitude,centroid_longitude,nearest_hospital_registry_id,nearest_hospital_name,nearest_care_km,estimated_travel_time_minutes,average_road_speed_kph,road_access_factor,rurality_index,route_source,source
+Abia,Aba North,235579,5.113088,7.368223,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Aba South,318624,5.079283,7.351654,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Arochukwu,127954,5.500138,7.816086,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Bende,203630,5.665453,7.618994,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Ikwuano,91151,5.400136,7.58371,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Isiala-Ngwa North,182504,5.389411,7.415714,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Isiala-Ngwa South,233177,5.290636,7.39751,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Isuikwuato,158333,5.792427,7.466375,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Obi Nwga,342564,5.155042,7.464262,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Ohafia,177214,5.655275,7.810637,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Osisioma Ngwa,451797,5.180758,7.329774,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Ugwunagbo,77250,5.016706,7.352412,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Ukwa East,58156,4.944943,7.425673,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Ukwa West,100647,4.942612,7.247947,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Umuahia North,276147,5.584503,7.490239,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Umuahia South,196713,5.487521,7.444813,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Abia,Umu-Nneochi,167779,5.961935,7.397199,,,,,38.0,1.08,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Demsa,189315,9.399038,12.009318,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Fufore,460889,9.19846,12.64258,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Ganye,277598,8.427012,12.016671,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Girei,233070,9.441298,12.48198,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Gombi,287713,10.189298,12.472525,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Guyuk,152455,9.840827,11.907126,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Hong,276670,10.307302,12.926255,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Jada,373532,8.672865,12.437511,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Lamurde,115309,9.562568,11.695038,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Madagali,162538,10.814616,13.521441,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Maiha,183932,9.850276,13.162442,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Mayo-Belwa,297551,8.998696,11.959367,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Michika,223979,10.579699,13.409867,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Mubi North,246527,10.353967,13.347886,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Mubi South,229213,10.179474,13.306846,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Numan,93642,9.445468,11.799091,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Shelleng,129451,9.895092,12.106009,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Song,344045,9.8227,12.621215,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Toungo,114219,7.970232,11.815375,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Yola North,235554,9.253283,12.442721,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Adamawa,Yola South,439517,9.255266,12.349312,,,,,34.0,1.2,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Abak,186491,5.019887,7.772279,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Eastern Obolo,21179,4.520057,7.700902,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Eket,181602,4.637094,7.948086,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Esit Eket,42412,4.639668,8.075572,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Essien Udim,205145,5.109122,7.64978,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Etim Ekpo,105395,4.967779,7.599736,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Etinan,91372,4.814184,7.844552,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Ibeno,51580,4.562339,8.069598,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Ibesikpo Asutan,135271,4.923257,7.955376,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Ibiono Ibom,117978,5.206748,7.884779,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Ika,44712,5.009965,7.53524,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Ikono,138213,5.216166,7.782688,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Ikot Abasi,104150,4.607313,7.629676,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Ikot Ekpene,201893,5.194518,7.703978,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Ini,106447,5.395997,7.750253,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Itu,95514,5.154299,7.988173,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Mbo,50716,4.645807,8.265936,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Mkpat Enin,117475,4.694607,7.764331,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Nsit Atai,60986,4.826379,8.03098,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Nsit Ibom,78538,4.893699,7.894197,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Nsit Ubium,89396,4.748288,7.959626,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Obot Akara,104291,5.247795,7.605659,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Okobo,47071,4.833117,8.143047,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Onna,67226,4.627992,7.85453,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Oron,73988,4.815109,8.239858,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Oruk Anam,175684,4.804067,7.659243,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Udung Uko,11643,4.752624,8.263851,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Ukanafun,88107,4.892901,7.603259,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Uruan,98004,5.009212,8.058608,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Urue Offong/Oruko,33090,4.714314,8.169619,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Akwa Ibom,Uyo,369664,5.008231,7.916782,,,,,36.0,1.08,1.0,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Aguata,540002,5.982912,7.08795,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Anambra East,84250,6.468227,6.876766,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Anambra West,40556,6.415877,6.770164,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Anaocha,305766,6.094362,7.017686,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Awka North,102331,6.337785,7.062931,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Awka South,379789,6.193885,7.082606,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Ayamelum,44770,6.592822,6.988776,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Dunukofia,83830,6.239973,6.964574,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Ekwusigo,281339,5.995999,6.845315,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Idemili North,517011,6.125356,6.881379,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Idemili South,325698,6.066644,6.887121,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Ihiala,472329,5.856801,6.854866,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Njikoka,210605,6.188985,6.991866,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Nnewi North,262071,6.007885,6.913945,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Nnewi South,352163,5.954503,6.964918,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Ogbaru,163689,5.909597,6.730655,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Onitsha North,199284,6.159565,6.795278,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Onitsha South,85433,6.137031,6.772358,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Orumba North,161386,6.115602,7.166866,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Orumba South,182399,5.998306,7.222913,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Anambra,Oyi,293029,6.215874,6.884962,,,,,39.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Alkaleri,531600,9.873148,10.480857,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Bauchi,1305305,10.23647,9.904759,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Bogoro,141952,9.630449,9.609824,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Dambam,207919,11.626988,10.780422,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Darazo,437165,11.138848,10.629897,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Dass,106543,9.996577,9.488512,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Gamawa,376807,12.037268,10.612458,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Ganjuwa,843153,10.743245,10.007726,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Giade,242708,11.40871,10.25094,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Itas/Gadau,302270,11.852621,10.034524,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Jama'are,130072,11.665485,9.920842,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Katagum,576190,11.660138,10.338719,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Kirfi,256315,10.409802,10.527019,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Misau,342789,11.381837,10.483604,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Ningi,676336,11.029236,9.231207,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Shira,391242,11.464254,10.018602,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Tafawa-Balewa,377921,9.784654,9.579312,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Toro,714890,10.410173,9.224993,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Warji,171939,11.142383,9.757623,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bauchi,Zaki,264477,12.242696,10.391933,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Bayelsa,Brass,63555,4.446142,6.28897,,,,,28.0,1.35,1.22,pending-osrm-cache,WorldPop v2.0 mean population
+Bayelsa,Ekeremor,96061,4.943987,5.701187,,,,,28.0,1.35,1.22,pending-osrm-cache,WorldPop v2.0 mean population
+Bayelsa,Kolokuma/Opokuma,39145,5.086153,6.263422,,,,,28.0,1.35,1.22,pending-osrm-cache,WorldPop v2.0 mean population
+Bayelsa,Nembe,39435,4.508958,6.293706,,,,,28.0,1.35,1.22,pending-osrm-cache,WorldPop v2.0 mean population
+Bayelsa,Ogbia,107566,4.769546,6.329977,,,,,28.0,1.35,1.22,pending-osrm-cache,WorldPop v2.0 mean population
+Bayelsa,Sagbama,72238,5.127036,6.216443,,,,,28.0,1.35,1.22,pending-osrm-cache,WorldPop v2.0 mean population
+Bayelsa,Southern Ijaw,134003,4.664087,5.924057,,,,,28.0,1.35,1.22,pending-osrm-cache,WorldPop v2.0 mean population
+Bayelsa,Yenegoa,523949,5.032369,6.347634,,,,,28.0,1.35,1.22,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Ado,162296,6.80653,8.000183,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Agatu,124977,7.865635,7.897207,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Apa,214211,7.606187,7.896077,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Buruku,406675,7.363912,9.191635,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Gboko,957936,7.370115,8.883568,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Guma,410616,7.899999,8.757287,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Gwer East,398243,7.323142,8.396961,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Gwer West,221518,7.602853,8.204348,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Katsina-Ala,817325,7.234106,9.532449,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Konshisha,684325,7.048161,8.708503,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Kwande,860871,6.808312,9.431094,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Logo,521789,7.717735,9.265421,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Makurdi,969774,7.679119,8.534903,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Obi,130108,7.012903,8.305258,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Ogbadibo,180146,7.028745,7.666621,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Ohimini,148938,7.268607,7.954582,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Oju,226940,6.854302,8.383576,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Okpokwu,210235,7.035515,7.830935,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Oturkpo,312697,7.18159,8.11817,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Tarka,257853,7.602158,8.859712,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Ukum,905264,7.552648,9.677757,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Ushongo,437430,7.113566,8.999262,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Benue,Vandeikya,374219,6.808444,9.079069,,,,,34.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Abadam,119241,13.40392,13.318381,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Askira/Uba,316642,10.662606,12.942299,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Bama,257884,11.51819,14.00557,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Bayo,195582,10.425328,11.701772,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Biu,371173,10.810824,12.108426,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Chibok,127463,10.844838,12.855778,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Damboa,230907,11.110509,12.678689,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Dikwa,121929,11.924568,14.049301,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Gubio,174390,12.65861,12.76924,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Guzamala,102448,12.865612,13.198135,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Gwoza,238805,11.151766,13.531656,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Hawul,315942,10.471411,12.259441,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Jere,561846,11.94684,13.167054,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Kaga,127350,11.606925,12.517168,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Kala/Balge,74058,11.878941,14.462093,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Konduga,207236,11.615029,13.114381,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Kukawa,116778,13.091768,13.672389,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Kwaya Kusar,160284,10.471616,11.887612,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Mafa,106514,11.987707,13.551328,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Magumeri,218630,12.194115,12.64739,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Maiduguri,846657,11.836,13.127568,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Marte,92306,12.405299,13.840665,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Mobbar,219048,13.097245,12.703123,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Monguno,211211,12.644473,13.728064,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Ngala,168281,12.29284,14.158592,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Nganzai,105203,12.473508,13.146892,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Borno,Shani,238941,10.182428,11.941648,,,,,30.0,1.34,1.28,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Abi,61182,5.89687,8.030319,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Akamkpa,78106,5.398366,8.541964,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Akpabuyo,88480,4.946711,8.481125,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Bakassi,20462,4.827535,8.518567,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Bekwarra,104815,6.699719,8.9038,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Biase,69570,5.5418,8.066628,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Boki,134522,6.279173,9.007263,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Calabar Municipal,91327,5.019849,8.325783,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Calabar South,287997,4.919156,8.311252,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Etung,44585,5.844701,8.772576,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Ikom,166244,6.112844,8.627054,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Obanliku,99825,6.505349,9.313077,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Obubra,61530,5.914261,8.41402,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Obudu,111375,6.564995,9.067593,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Odukpani,131314,5.181369,8.154323,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Ogoja,167655,6.509192,8.709544,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Yakurr,109461,5.807981,8.176836,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Cross River,Yala,188168,6.665348,8.587818,,,,,31.0,1.28,1.16,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Aniocha North,91927,6.362813,6.481297,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Aniocha South,193913,6.134172,6.484429,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Bomadi,26483,5.204185,5.859525,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Burutu,56243,5.221786,5.603274,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Ethiope East,147590,5.686249,5.984826,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Ethiope West,139037,5.920155,5.753091,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Ika North East,165113,6.228739,6.294942,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Ika South,265635,6.184384,6.199518,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Isoko North,162829,5.526175,6.237547,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Isoko South,125841,5.384767,6.224887,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Ndokwa East,105912,5.686987,6.511788,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Ndokwa West,202956,5.801389,6.341288,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Okpe,104940,5.685847,5.788201,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Oshimili North,311140,6.31519,6.645233,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Oshimili South,316557,6.093784,6.677488,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Patani,22326,5.170414,6.091671,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Sapele,180737,5.831205,5.654471,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Udu,204727,5.474815,5.828832,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Ughelli North,335934,5.511388,6.051843,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Ughelli South,113764,5.342677,5.900968,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Ukwuani,104115,5.844505,6.249626,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Uvwie,259531,5.573099,5.781607,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Warri North,64172,5.850354,5.271443,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Warri South,257197,5.571836,5.617688,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Delta,Warri South-West,24126,5.511299,5.365214,,,,,34.0,1.16,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Ebonyi,Abakaliki,205429,6.262038,8.155102,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Ebonyi,Afikpo North,191498,5.910179,7.915506,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Ebonyi,Afikpo South,93430,5.811165,7.830429,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Ebonyi,Ebonyi,395524,6.54011,8.094486,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Ebonyi,Ezza North,200106,6.262021,7.974412,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Ebonyi,Ezza South,166530,6.131182,7.995847,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Ebonyi,Ikwo,321108,6.103236,8.187003,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean populatiBenue,Kwande,860871,6.808312,9.431094,,Lghc Anyaise,36.0,51,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Logo,521789,7.717735,9.265421,,St Athanisius Health Clinic,20.77,35,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Makurdi,969774,7.679119,8.534903,07/07/1/1/2/0043,Good Shepherd Clinic and Maternity,14.58,11,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Obi,130108,7.012903,8.305258,,Itakpa Ito Community Health Clinic,10.16,9,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Ogbadibo,180146,7.028745,7.666621,,Igwu Akor Model Primary Health Care Center,9.43,22,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Ohimini,148938,7.268607,7.954582,,Blessed Faith and Maternity Clinic,13.45,26,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Oju,226940,6.854302,8.383576,07/14/1/1/1/0038,Otokwe Primary Health Care,11.92,17,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Okpokwu,210235,7.035515,7.830935,,Ogbehe Ogbehe Olagbeno Clinic,9.97,15,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Oturkpo,312697,7.18159,8.11817,07/19/1/1/1/0082,St Veronica Clinic and Maternity,0.78,2,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Tarka,257853,7.602158,8.859712,07/04/1/1/2/0077,Bemdoo Maternity Clinic,16.39,21,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Ukum,905264,7.552648,9.677757,07/09/1/1/2/0026,Mbaton Primary Health Clinic,19.11,14,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Ushongo,437430,7.113566,8.999262,,Baki Clinic and Maternity,7.88,11,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Benue,Vandeikya,374219,6.808444,9.079069,09/05/1/1/1/0027,Atiambi Health Post,11.36,13,34.0,1.16,1.1,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Abadam,119241,13.40392,13.318381,,Doron Naira Health Post,47.44,97,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Askira/Uba,316642,10.662606,12.942299,08/06/1/1/1/0026,Ngadarma Primary Health Clinic,11.67,17,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Bama,257884,11.51819,14.00557,,Ndaba Health Clinic,38.05,89,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Bayo,195582,10.425328,11.701772,08/18/1/1/1/0013,Kurbagayi Primary Health Center,10.87,13,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Biu,371173,10.810824,12.108426,,Hema 2 Health Post,32.86,36,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Chibok,127463,10.844838,12.855778,08/02/1/2/1/0001,Askira General Hospital,22.4,22,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Damboa,230907,11.110509,12.678689,08/06/1/1/1/0021,Mboa Migzadala Health Post,41.14,58,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Dikwa,121929,11.924568,14.049301,,Kaje Health Clinic,39.89,62,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Gubio,174390,12.65861,12.76924,,Wurro Bokki Health Post,44.35,52,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Guzamala,102448,12.865612,13.198135,,Gasarawa Health Clinic,38.72,85,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Gwoza,238805,11.151766,13.531656,02/10/1/1/1/0055,Wagga Primary Health Care Center,36.0,38,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Hawul,315942,10.471411,12.259441,08/05/1/1/1/0005,Bethesda Health Clinic,19.41,29,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Jere,561846,11.94684,13.167054,,Kareto Health Post,10.95,19,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Kaga,127350,11.606925,12.517168,35/07/1/1/1/0011,Gotumba Health Clinic,31.59,61,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Kala/Balge,74058,11.878941,14.462093,,Ashigashiya Health Post,32.87,81,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Konduga,207236,11.615029,13.114381,08/13/1/1/1/0029,Molai Church Of Christ In Nigeria Primary Health Center,20.91,36,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Kukawa,116778,13.091768,13.672389,,8 Task Force Division Hospital,60.0,111,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Kwaya Kusar,160284,10.471616,11.887612,08/04/1/1/1/0010,Gaidam Health Post,18.48,24,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Mafa,106514,11.987707,13.551328,,Mashamari Clinic,46.2,51,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Magumeri,218630,12.194115,12.64739,08/09/1/2/1/0002,Gubio Maternity and Child Health Centre,46.0,65,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Maiduguri,846657,11.836,13.127568,08/21/1/1/1/0019,Jere Police Health Clinic,3.15,4,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Marte,92306,12.405299,13.840665,,Ngollam Health Clinic,28.06,34,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Mobbar,219048,13.097245,12.703123,,Garanda Health Clinic,33.23,32,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Monguno,211211,12.644473,13.728064,,Lainalli Health Clinic,30.4,38,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Ngala,168281,12.29284,14.158592,,Wunbi Health Clinic,36.88,54,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Nganzai,105203,12.473508,13.146892,08/20/1/1/1/0008,Gajigana Model Primary Health Care Center,30.49,38,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Borno,Shani,238941,10.182428,11.941648,08/27/1/1/1/0021,Kaule Health Post,20.27,18,30.0,1.34,1.28,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Abi,61182,5.89687,8.030319,11/07/1/1/1/0015,Elugwu Ettam Primary Health Care Center,9.4,14,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Akamkpa,78106,5.398366,8.541964,09/15/1/1/1/0058,Oduyama Health Post,64.09,73,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Akpabuyo,88480,4.946711,8.481125,09/04/1/1/1/0001,Abakpa Primary Health Care Center,7.93,14,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Bakassi,20462,4.827535,8.518567,,Abakpa Primary Health Center,3.64,6,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Bekwarra,104815,6.699719,8.9038,09/16/1/1/1/0056,Moniaya Catholic Hospital Maternity,10.79,9,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Biase,69570,5.5418,8.066628,01/03/1/1/1/0040,Obieze Health Center,47.62,74,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Boki,134522,6.279173,9.007263,09/14/1/1/1/0077,Okiro Health Post,33.17,60,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Calabar Municipal,91327,5.019849,8.325783,,Polyclinic Ikot Omin Clinic,8.33,10,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Calabar South,287997,4.919156,8.311252,09/08/1/1/1/0125,Hope Waddle Secondary School Clinic,1.81,4,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Etung,44585,5.844701,8.772576,09/11/1/1/1/0111,Kalime Health Post,9.65,14,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Ikom,166244,6.112844,8.627054,09/07/1/2/1/0007,Arangha Health Post,42.4,63,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Obanliku,99825,6.505349,9.313077,,Bajiki Bumaji Health Post,15.31,28,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Obubra,61530,5.914261,8.41402,09/11/1/1/1/0015,Alesi Health Post,12.4,14,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Obudu,111375,6.564995,9.067593,,Ogboria Ogan Primary Health Care Center,13.26,28,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Odukpani,131314,5.181369,8.154323,03/16/1/2/2/0003,Imabong Clinic,21.54,19,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Ogoja,167655,6.509192,8.709544,09/18/1/1/1/0041,Ijama Health Post,9.85,17,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Yakurr,109461,5.807981,8.176836,09/13/1/1/1/0062,Onyadama Health Center,19.64,18,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Cross River,Yala,188168,6.665348,8.587818,,Iduku Health Post,24.2,48,31.0,1.28,1.16,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Aniocha North,91927,6.362813,6.481297,10/02/1/1/1/0012,Ubulu Okiti Primary Health Center,13.17,25,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Aniocha South,193913,6.134172,6.484429,10/14/1/2/1/0001,Government Ibusa Hospital,21.45,27,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Bomadi,26483,5.204185,5.859525,10/20/1/1/2/0012,Olota Primary Health Center,0.67,2,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Burutu,56243,5.221786,5.603274,,Gbaregolor Primary Health Care Center,25.79,134,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Ethiope East,147590,5.686249,5.984826,,Urban Health Center,15.04,21,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Ethiope West,139037,5.920155,5.753091,10/17/1/1/2/0014,Uyo Hospital,9.56,12,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Ika North East,165113,6.228739,6.294942,10/01/1/1/1/0010,Obior Primary Health Center,12.55,16,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Ika South,265635,6.184384,6.199518,10/07/1/1/2/0014,Owa Oyibu Primary Health Care Center,1.13,3,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Isoko North,162829,5.526175,6.237547,,Austine Royal Clinic,6.97,9,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Isoko South,125841,5.384767,6.224887,10/09/1/1/1/0016,Oyede Primary Health Center,13.96,19,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Ndokwa East,105912,5.686987,6.511788,10/12/1/2/1/0001,Kwale General Hospital,13.16,21,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Ndokwa West,202956,5.801389,6.341288,,Achiane Free Medical Center,16.29,24,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Okpe,104940,5.685847,5.788201,10/17/1/1/2/0010,Ibada Elume Primary Health Center,12.36,18,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Oshimili North,311140,6.31519,6.645233,10/01/1/1/1/0008,Issele Azagba Primary Health Care Center,7.99,19,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Oshimili South,316557,6.093784,6.677488,,Onyedikachukwu Maternity and Clinic,18.42,31,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Patani,22326,5.170414,6.091671,06/06/1/1/1/0012,Ebedebiri Primary Health Care Center,5.95,15,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Sapele,180737,5.831205,5.654471,10/06/1/1/1/0016,Orhokpokpor Primary Health Care,32.81,41,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Udu,204727,5.474815,5.828832,10/20/1/1/1/0002,Edjophe Primary Health Center,7.76,10,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Ughelli North,335934,5.511388,6.051843,,Ebor Primary Health Center,7.96,9,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Ughelli South,113764,5.342677,5.900968,,Otu Jeremi General Hospital,14.04,24,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Ukwuani,104115,5.844505,6.249626,10/12/1/2/2/0004,Ogbe Ogume Primary Health Care Center,18.46,43,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Uvwie,259531,5.573099,5.781607,,Winners Clinic,5.68,6,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Warri North,64172,5.850354,5.271443,28/11/1/1/1/0029,Molutehin Primary Health Center,34.35,373,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Warri South,257197,5.571836,5.617688,10/13/1/2/1/0002,Ughoton Primary Health Center,4.94,11,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Delta,Warri South-West,24126,5.511299,5.365214,,Okerekoko Cottage Hospital,12.31,123,34.0,1.16,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Ebonyi,Abakaliki,205429,6.262038,8.155102,,Amuzu Health Post,6.49,13,35.0,1.14,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Ebonyi,Afikpo North,191498,5.910179,7.915506,11/13/1/1/1/0002,Okaria Mdg Health Center,10.23,12,35.0,1.14,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Ebonyi,Afikpo South,93430,5.811165,7.830429,01/10/1/1/1/0058,Ukwa Nkporo Health Center,9.26,18,35.0,1.14,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+Ebonyi,Ebonyi,395524,6.54011,8.094486,,Ogbete Mdgs Health Center,4.11,6,35.0,1.14,1.08,OSRM public routing table from WorldPop LGA centroid,WorldPop v2.0 mean population
+1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kaduna,Zangon Kataf,398223,9.892844,8.220502,,,,,36.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kaduna,Zaria,772390,11.035877,7.685456,,,,,36.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Ajingi,276933,11.978095,9.06048,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Albasu,323025,11.644034,9.109225,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Bagwai,359349,12.103644,8.132457,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Bebeji,360339,11.53489,8.310316,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Bichi,523941,12.279864,8.266513,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Bunkure,318448,11.676357,8.586556,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Dala,462122,12.022207,8.494927,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Dambatta,456215,12.430063,8.620628,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Dawakin Kudu,482493,11.819718,8.660018,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Dawakin Tofa,461798,12.149378,8.391261,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Doguwa,333953,10.83632,8.664846,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Fagge,361748,12.040645,8.517203,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Gabasawa,354135,12.167422,8.843325,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Garko,222853,11.58358,8.841088,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Garun Malam,179012,11.666815,8.402268,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Gaya,371564,11.815957,9.030674,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Gezawa,417868,12.051235,8.720421,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Gwale,721147,11.978763,8.481536,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Gwarzo,424082,11.901378,7.949154,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Kabo,241586,11.887917,8.166884,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Kano Municipal,376316,11.981794,8.519028,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Karaye,286991,11.76135,7.996359,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Kibiya,262361,11.497758,8.677712,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Kiru,464793,11.581595,8.13652,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Kumbotso,1149199,11.92084,8.515713,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Kunchi,220284,12.452498,8.264957,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Kura,247846,11.787748,8.486843,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Madobi,259153,11.812281,8.357357,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Makoda,188880,12.420683,8.48346,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Minjibir,380688,12.195557,8.613446,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Nassarawa,945921,12.005788,8.573859,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Rano,283341,11.493009,8.531894,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Rimin Gado,185071,11.93654,8.275472,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Rogo,507938,11.516067,7.838803,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Shanono,284921,12.074983,7.963205,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Sumaila,607179,11.288669,8.880588,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Takai,491380,11.486189,9.161047,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Tarauni,338955,11.960499,8.556524,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Tofa,195612,12.017771,8.326867,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Tsanyawa,267924,12.281537,8.010793,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Tudun Wada,525175,11.29431,8.54824,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Ungogo,1066937,12.061422,8.507731,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Warawa,151588,11.908367,8.771389,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Kano,Wudil,278914,11.763839,8.874315,,,,,35.0,1.12,1.04,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Bakori,352935,11.644478,7.430279,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Batagarawa,314631,12.878253,7.576086,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Batsari,282107,12.835368,7.254266,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Baure,268778,12.793081,8.784301,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Bindawa,237788,12.715718,7.894257,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Charanchi,229897,12.602704,7.679264,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Dan Musa,200306,12.23719,7.284074,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Dandume,261564,11.409659,7.205182,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Danja,277989,11.39976,7.54443,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Daura,205864,12.978624,8.288523,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Dutsi,134070,12.913385,8.151702,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Dutsin Ma,279583,12.419692,7.509911,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Faskari,328460,11.698304,7.100619,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Funtua,426088,11.455996,7.304276,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Ingawa,229353,12.61349,8.09242,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Jibia,346783,13.036807,7.365838,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Kafur,412990,11.641667,7.695961,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Kaita,260209,13.173248,7.764876,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Kankara,378098,11.970635,7.397989,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Kankia,242875,12.442655,7.791749,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Katsina,726343,13.012956,7.620303,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Kurfi,207502,12.667628,7.474609,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Kusada,136305,12.451958,7.949609,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Mai'Adua,215563,13.13726,8.227111,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Malumfashi,469106,11.866211,7.655263,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Mani,305630,12.887912,7.924254,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Mashi,323552,13.139046,7.99195,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Matazu,167934,12.243704,7.638849,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Musawa,240145,12.099042,7.713052,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Rimi,275675,12.854022,7.723064,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Sabuwa,171677,11.349822,7.057854,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Safana,251900,12.526845,7.234944,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Sandamu,113231,12.901976,8.376787,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Katsina,Zango,138427,12.955915,8.548356,,,,,33.0,1.16,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Aleiro,84392,12.313861,4.454926,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Arewa Dandi,273464,12.767229,4.089624,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Argungu,283520,12.690493,4.433801,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Augie,141947,12.893407,4.624361,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Bagudu,452719,11.326496,3.925878,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Birnin Kebbi,505031,12.476687,4.255715,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Bunza,186218,12.205706,3.948509,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Dandi,246106,11.860022,3.809353,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Fakai,195033,11.526771,4.862967,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Gwandu,246586,12.506682,4.612102,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Jega,294484,12.115716,4.427704,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Kalgo,125684,12.364447,4.06714,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Koko-Besse,254121,11.406503,4.386545,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Maiyama,212581,11.981507,4.323423,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Ngaski,262506,10.533903,4.77519,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Sakaba,169607,11.139745,5.555686,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Shanga,291720,11.124248,4.618639,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Suru,252223,11.800626,4.098233,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Wasagu-Danko,513581,11.455325,5.62015,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Yauri,175330,10.769252,4.735038,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kebbi,Zuru,312221,11.42615,5.25436,,,,,33.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Adavi,266141,7.674233,6.44459,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Ajaokuta,112273,7.514741,6.59639,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Ankpa,444378,7.443572,7.635222,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Bassa,117192,10.089401,8.7978,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Dekina,587329,7.568172,7.182832,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Ibaji,83587,6.817614,6.770446,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Idah,50813,7.080601,6.71847,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Igalamela-Odolu,234096,7.064409,7.036623,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Ijumu,114783,7.835821,5.962517,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Kabba/Bunu,158558,8.100068,6.228895,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Kogi,124897,8.14617,6.864772,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Lokoja,381280,8.209048,6.468625,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Mopa-Muro,57685,8.151538,5.909263,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Ofu,260569,7.325493,7.037584,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Ogori/Magongo,13420,7.477014,6.160546,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Okehi,49622,7.729005,6.3293,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Okene,154197,7.473279,6.344212,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Olamaboro,322887,7.191459,7.533939,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Omala,132183,7.808645,7.546601,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Yagba East,87929,8.17197,5.771196,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kogi,Yagba West,48022,8.315991,5.539066,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Asa,353226,8.447757,4.423778,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Baruten,556680,9.27175,3.324161,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Edu,256902,8.908296,5.180379,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Ekiti,52182,8.109629,5.342524,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Ifelodun,227430,7.941699,4.673944,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Ilorin East,944764,8.565546,4.745262,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Ilorin South,143270,8.416378,4.613083,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Ilorin West,621471,8.488183,4.523067,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Irepodun,185107,7.866797,4.515346,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Isin,53882,8.264792,5.042629,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Kaiama,432193,9.398917,4.09805,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Moro,297714,8.845187,4.58075,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Offa,209697,8.151206,4.684142,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Oke Ero,47025,8.193431,5.276945,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Oyun,165619,8.166088,4.667897,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Kwara,Pategi,141560,8.62844,5.789011,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Agege,208739,6.622998,3.318565,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Ajeromi/Ifelodun,190634,6.455592,3.337325,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Alimosho,2107579,6.577778,3.260054,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Amuwo Odofin,495981,6.441429,3.280009,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Apapa,230283,6.448066,3.360073,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Badagry,562247,6.437038,2.916926,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Epe,220872,6.619593,3.881948,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Eti Osa,880719,6.468986,3.557114,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Ibeju Lekki,430368,6.482167,4.00501,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Ifako/Ijaye,238326,6.65672,3.317013,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Ikeja,317785,6.604805,3.354371,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Ikorodu,1225579,6.598403,3.566495,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Kosofe,496184,6.58505,3.413981,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Lagos Island,69755,6.457695,3.392989,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Lagos Mainland,319893,6.500381,3.39116,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Mushin,200925,6.532255,3.350316,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Ojo,684611,6.456168,3.162554,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Oshodi/Isolo,492594,6.537887,3.315921,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Shomolu,124222,6.53385,3.387784,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Lagos,Surulere,68447,8.089054,4.414004,,,,,42.0,0.98,0.9,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Akwanga,149923,9.003307,8.325654,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Awe,279131,8.248127,9.227457,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Doma,1000273,8.210874,8.131371,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Karu,1239650,9.024096,7.761919,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Keana,112203,8.17201,8.787776,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Keffi,232923,8.830144,7.831156,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Kokona,311940,8.829299,8.055929,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Lafia,252545,8.701408,8.825531,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Nasarawa,416281,8.399688,7.705919,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Nasarawa Egon,57365,8.690246,8.326958,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Obi,212223,,,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Toto,178386,8.273237,7.206983,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Nasarawa,Wamba,288565,8.940789,8.632981,,,,,35.0,1.14,1.08,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Agaie,205956,8.944283,6.43858,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Agwara,147415,10.733567,4.51888,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Bida,228618,9.088626,6.012671,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Borgu,651448,10.295465,4.164033,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Bosso,440043,9.612143,6.42688,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Chanchaga,525191,9.606252,6.539576,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Edati,108404,9.043891,5.666571,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Gbako,400976,9.244788,6.011471,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Gurara,202682,9.332786,7.045338,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Katcha,375149,9.11604,6.241301,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Kontagora,416298,10.407797,5.489759,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Lapai,384470,8.746177,6.663257,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Lavun,243083,9.449899,5.587358,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Magama,507991,10.369329,4.975002,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Mariga,783301,10.685705,5.811454,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Mashegu,873610,9.865259,5.242901,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Mokwa,443312,9.187847,5.291254,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Munya,315364,9.820261,7.040673,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Paikoro,422617,9.463736,6.846566,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Rafi,597253,10.160685,6.254815,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Rijau,453084,11.078096,5.125849,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Shiroro,619281,10.112014,6.690581,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Suleja,497260,9.214696,7.188559,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Tafa,138439,9.256647,7.277454,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Niger,Wushishi,241926,9.668859,5.959398,,,,,34.0,1.18,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Abeokuta North,387169,7.24519,3.167004,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Abeokuta South,303574,7.156485,3.364873,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ado Odo/Ota,1870940,6.617169,3.082934,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ewekoro,155564,6.95039,3.196804,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ifo,1386800,6.767554,3.24242,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ijebu East,195204,6.823133,4.271668,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ijebu North,182301,7.012171,4.003126,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ijebu North East,47062,6.877746,4.019026,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ijebu Ode,201669,6.740234,3.977179,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ikenne,132946,6.900605,3.689747,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Imeko Afon,121739,7.628962,2.865435,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ipokia,280450,6.618114,2.799723,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Obafemi Owode,937418,7.011482,3.495277,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Odeda,282697,7.310786,3.502415,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Odogbolu,186065,6.77998,3.814592,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Ogun Waterside,61096,6.495829,4.406695,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Remo North,70787,7.005597,3.721703,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Shagamu,765429,6.778432,3.579768,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Yewa North,315939,7.119299,2.90884,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ogun,Yewa South,248524,6.782084,2.95883,,,,,39.0,1.02,0.96,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Akoko North East,124175,7.538636,5.818427,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Akoko North West,106974,7.642693,5.79453,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Akoko South East,45224,7.429703,5.908768,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Akoko South West,147207,7.39835,5.687568,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Akure North,236237,7.265237,5.317854,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Akure South,391612,7.186931,5.214301,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Ese Odo,40035,6.222517,4.969739,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Idanre,201506,6.978331,5.195971,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Ifedore,331343,7.356909,5.1144,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Ilaje,172592,6.22337,4.771174,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Ile Oluji/Okeigbo,317198,7.245559,4.857798,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Irele,100811,6.522316,5.004342,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Odigbo,287956,6.756749,4.736376,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Okitipupa,182483,6.553467,4.716071,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Ondo East,38632,7.072608,4.952506,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Ondo West,278425,6.991812,4.731786,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Ose,119904,7.046383,5.733786,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Ondo,Owo,234767,7.151151,5.56434,,,,,36.0,1.1,1.02,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Atakunmosa East,61149,7.448907,4.761451,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Atakunmosa West,75306,7.588227,4.632288,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ayedade,177848,7.298492,4.313687,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ayedire,69693,7.559157,4.234557,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Boluwaduro,47659,7.923294,4.811507,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Boripe,190707,7.869576,4.679019,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ede North,180245,7.714883,4.492043,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ede South,159607,7.658846,4.437066,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Egbedore,302499,7.791701,4.418509,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ejigbo,151504,7.859595,4.273367,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ife Central,175186,7.538836,4.521846,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ife East,389184,7.413472,4.57315,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ife North,135420,7.386629,4.448158,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ife South,153911,7.176455,4.554976,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ifedayo,20269,7.987133,4.987221,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ifelodun,119177,,,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ila,88424,7.987996,4.888452,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ilesha East,162350,7.604036,4.765548,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ilesha West,239032,7.643782,4.708156,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Irepodun,1093,,,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Irewole,132063,7.412813,4.227607,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Isokan,97358,7.277655,4.177675,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Iwo,302214,7.690518,4.198588,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Obokun,115159,7.778926,4.767935,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Odo Otin,132000,8.01842,4.669588,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Ola Oluwa,55598,7.761598,4.205487,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Olorunda,304243,7.879014,4.554135,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Oriade,150722,7.534808,4.872052,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Orolu,140251,7.875361,4.472723,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Osun,Osogbo,287559,7.587991,4.463019,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Afijio,118043,7.73344,3.861914,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Akinyele,484751,7.57453,3.905701,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Atiba,124366,8.052599,3.929345,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Atisbo,149942,8.395133,3.265195,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Egbeda,478757,7.389841,4.059988,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ibadan North,103274,7.411982,3.904842,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ibadan North East,255650,7.375969,3.924633,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ibadan North West,104359,7.401261,3.876094,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ibadan South East,168078,7.351453,3.899037,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ibadan South West,137649,7.364334,3.866958,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ibarapa Central,72449,7.421672,3.261676,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ibarapa East,103584,7.587778,3.487987,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ibarapa North,92399,7.635301,3.168504,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ido,591771,7.48212,3.728619,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Irepo,120095,9.013317,3.913659,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Iseyin,294667,7.986041,3.596769,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Itesiwaju,78360,8.232194,3.448497,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Iwajowa,114515,8.017114,2.99918,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Kajola,122333,8.016846,3.354038,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Lagelu,511750,7.521661,4.054445,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ogbomosho North,378132,8.155064,4.268902,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ogbomosho South,210173,8.104571,4.226815,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ogo Oluwa,85310,7.973013,4.212524,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Olorunsogo,95218,8.702611,4.077732,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Oluyole,500266,7.207763,3.874924,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ona ara,271655,7.256933,4.035989,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Orelope,78011,8.804642,3.802188,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Ori Ire,173456,8.298786,4.108216,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Oyo East,51914,7.877923,4.035238,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Oyo West,357439,7.934126,3.83502,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Saki East,84335,8.695881,3.6206,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Saki West,339873,8.630439,3.170146,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Oyo,Surulere,127705,,,,,,,38.0,1.04,0.98,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Barkin Ladi,306416,9.529912,8.907234,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Bassa,319964,,,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Bokkos,399295,9.213263,8.930615,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Jos East,88662,9.881955,9.106959,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Jos North,850291,9.938539,8.905713,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Jos South,816145,9.758628,8.833184,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Kanam,308226,9.486917,10.108356,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Kanke,187427,9.372623,9.636288,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Langtang North,421244,9.089706,9.815561,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Langtang South,266034,8.599747,9.817143,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Mangu,628740,9.396328,9.181155,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Mikang,178436,9.021877,9.612846,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Pankshin,309653,9.280182,9.431415,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Qua'an Pan,567934,8.744586,9.17037,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Riyom,176385,9.582578,8.690827,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Shendam,688396,8.714068,9.534638,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Plateau,Wase,466570,9.064959,10.216578,,,,,34.0,1.2,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Abua/Odual,48948,4.838663,6.561749,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Ahoada East,147554,5.065359,6.64102,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Ahoada West,59024,5.051763,6.516606,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Akuku Toru,14261,4.528903,6.670768,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Andoni,59141,4.487123,7.454236,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Asari-Toru,27436,4.752244,6.852677,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Bonny,94081,4.444468,7.235246,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Degema,60285,4.570565,6.912773,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Eleme,247844,4.789342,7.142975,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Emuoha,181123,5.003131,6.777577,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Etche,353509,5.088176,7.092851,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Gokana,89044,4.639843,7.280394,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Ikwerre,385964,5.06399,6.906065,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Khana,249319,4.677962,7.427417,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Obio/Akpor,1728478,4.865739,7.012537,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Ogba/Egbema/Ndoni,286368,5.3985,6.636043,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Ogu Bolo,20912,4.670707,7.201066,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Okrika,111775,4.603762,7.10497,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Omumma,58341,5.085359,7.233839,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Opobo/Nkoro,2564,4.561407,7.44396,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Oyigbo,213863,4.835916,7.320791,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Port-Harcourt,617897,4.77763,7.021648,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Rivers,Tai,59304,4.761515,7.255183,,,,,32.0,1.22,1.1,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Binji,122234,13.194508,4.775919,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Bodinga,354758,12.797987,5.214832,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Dange Shuni,484184,12.833677,5.423383,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Gada,499405,13.696245,5.67727,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Goronyo,287677,13.361734,5.791941,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Gudu,122942,13.448792,4.47996,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Gwadabawa,422783,13.415854,5.32201,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Illela,420933,13.651148,5.340742,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Isa,213481,13.213513,6.364812,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Kebbe,131948,11.890006,4.698912,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Kware,390912,13.138343,5.321091,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Rabah,214850,13.000659,5.754397,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Sabon Birni,434685,13.491711,6.263426,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Shagari,270316,12.540112,5.110815,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Silame,144706,12.99759,4.833673,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Sokoto North,335221,13.070012,5.229641,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Sokoto South,407999,13.040118,5.259374,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Tambuwal,405957,12.372829,4.813377,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Tangaza,254549,13.507618,4.960793,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Tureta,127598,12.498505,5.522275,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Wamakko,584630,13.075152,5.116498,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Wurno,298237,13.243029,5.535027,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Sokoto,Yabo,199744,12.789026,4.948845,,,,,33.0,1.16,1.12,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Ardo-Kola,318526,8.8266,11.164435,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Bali,616203,8.140913,10.977939,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Donga,357251,7.635087,10.249428,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Gashaka,185649,7.494427,11.373123,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Gassol,672721,8.472322,10.556468,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Ibi,203829,8.346208,9.808186,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Jalingo,666342,8.94289,11.326565,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Karim Lamido,432030,9.177103,10.873973,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Kurmi,171229,7.202082,10.618796,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Lau,171994,9.183272,11.409938,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Sardauna,547087,6.845684,11.241916,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Takum,413509,7.116036,9.906193,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Ussa,152395,7.13348,10.060985,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Wukari,733749,7.973688,9.810386,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Yorro,174829,8.896404,11.55585,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Taraba,Zing,234002,8.88978,11.728339,,,,,31.0,1.28,1.2,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Bade,237341,12.723849,10.929913,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Bursari,223590,12.714764,11.437356,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Damaturu,373686,11.852697,12.034226,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Fika,326403,11.346998,11.252297,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Fune,521910,11.878009,11.424595,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Geidam,321927,12.679639,12.110347,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Gujba,240205,11.391697,11.970985,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Gulani,293226,10.966387,11.703743,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Jakusko,268151,12.462107,10.916009,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Karasuwa,163835,12.978044,10.764622,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Machina,179688,13.028458,9.984633,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Nangere,198887,11.828754,10.990178,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Nguru,231803,12.960935,10.386259,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Potiskum,524194,11.681437,11.146233,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Tarmuwa,218019,12.262343,11.822823,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Yunusari,302418,13.096107,11.80698,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Yobe,Yusufari,279918,13.185288,10.868366,,,,,32.0,1.22,1.18,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Anka,188572,11.940077,6.011405,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Bakura,219398,12.616517,5.845901,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Birnin Magaji-Kiyaw,211005,12.494056,6.874852,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Bukkuyum,328302,11.955619,5.583896,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Bungudu,496533,12.087903,6.57182,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Gummi,347229,12.048913,5.117294,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Gusau,827942,12.036346,6.798802,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Kaura Namoda,367752,12.510972,6.601279,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Maradun,262849,12.736141,6.26853,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Maru,565196,11.531107,6.362692,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Shinkafi,216823,13.033196,6.45184,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Talata Mafara,326382,12.362127,6.057218,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Tsafe,360682,11.876883,6.912251,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
+Zamfara,Zurmi,357931,12.845556,6.766704,,,,,33.0,1.16,1.14,pending-osrm-cache,WorldPop v2.0 mean population
