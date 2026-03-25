@@ -7,6 +7,7 @@ class Settings(BaseSettings):
     api_prefix: str = '/api'
     frontend_url: str = 'http://localhost:5173'
     database_url: str = 'sqlite:///./caremesh.db'
+    bootstrap_debug_token: str = ''
 
     # Default Interswitch sandbox/test values (hackathon-friendly)
     interswitch_merchant_code: str = 'MX-TEST'  # replace with actual test merchant if available
