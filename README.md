@@ -197,3 +197,9 @@ Recommended deployment flow:
 - SQLite is fine for local demo use.
 - Some Hugging Face models depend on the providers enabled on your HF account.
 - Interswitch is currently configured for test/demo workflow.
+## Interswitch card details for payment confirmation:
+- PAN: 5061050254756707864
+- Expiry date: 06/26
+- CVV: 111
+- PIN: 1111
+- OTP: 123456
