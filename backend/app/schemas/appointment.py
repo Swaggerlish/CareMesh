@@ -1,5 +1,5 @@
 from datetime import datetime
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel, EmailStr, field_validator
 
 from app.schemas.hospital import HospitalOut
 
@@ -12,6 +12,14 @@ class AppointmentCreate(BaseModel):
     reason: str
     scheduled_for: datetime
     amount_kobo: int = 500000
+
+    @field_validator('scheduled_for')
+    @classmethod
+    def validate_scheduled_for(cls, value: datetime) -> datetime:
+        now = datetime.now(value.tzinfo) if value.tzinfo else datetime.now()
+        if value <= now:
+            raise ValueError('Appointment date and time must be in the future.')
+        return value
 
 
 class AppointmentOut(BaseModel):

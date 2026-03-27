@@ -50,7 +50,19 @@ export async function createAppointment(payload) {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(payload),
   });
-  if (!response.ok) throw new Error('Failed to create appointment');
+  if (!response.ok) {
+    let errorPayload = null;
+    try {
+      errorPayload = await response.json();
+    } catch {
+      errorPayload = null;
+    }
+
+    const error = new Error('Failed to create appointment');
+    error.status = response.status;
+    error.payload = errorPayload;
+    throw error;
+  }
   return response.json();
 }
 

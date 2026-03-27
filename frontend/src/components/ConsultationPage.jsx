@@ -19,6 +19,7 @@ export default function ConsultationPage() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState('')
   const [submitState, setSubmitState] = useState('')
+  const [showSuccessModal, setShowSuccessModal] = useState(false)
 
   const appointmentId = useMemo(() => {
     const params = new URLSearchParams(window.location.search)
@@ -93,6 +94,7 @@ export default function ConsultationPage() {
   function onSubmit(event) {
     event.preventDefault()
     setSubmitState('Doctor request submitted. The care team can now continue with patient triage and consultation setup.')
+    setShowSuccessModal(true)
   }
 
   if (loading) {
@@ -120,6 +122,19 @@ export default function ConsultationPage() {
 
   return (
     <div className="consultation-shell">
+      {showSuccessModal && (
+        <div className="modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="doctor-request-success-title">
+          <div className="modal card consultation-success-modal">
+            <div className="consultation-success-mark" aria-hidden="true">+</div>
+            <h2 id="doctor-request-success-title">Doctor request submitted</h2>
+            <p>{submitState}</p>
+            <button type="button" onClick={() => setShowSuccessModal(false)}>
+              Continue
+            </button>
+          </div>
+        </div>
+      )}
+
       <section className="consultation-panel card">
         <div className="consultation-header">
           <div>
@@ -229,8 +244,6 @@ export default function ConsultationPage() {
               <a className="secondary-action" href="/">Cancel</a>
               <button type="submit">Submit Request</button>
             </div>
-
-            {submitState && <p className="consultation-success">{submitState}</p>}
           </form>
 
           <aside className="consultation-summary">

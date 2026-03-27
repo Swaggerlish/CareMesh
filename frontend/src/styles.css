@@ -451,6 +451,19 @@ a { color: #0f766e; }
   display: grid;
   gap: 0.8rem;
 }
+.form-field {
+  display: grid;
+  gap: 0.35rem;
+}
+.input-error {
+  border-color: #dc2626;
+  background: #fff7f7;
+}
+.field-error {
+  margin: 0;
+  color: #b91c1c;
+  font-size: 0.92rem;
+}
 .callback-card {
   max-width: 520px;
   margin: 4rem auto;
@@ -573,6 +586,38 @@ a { color: #0f766e; }
   border-radius: 16px;
   background: #ecfeff;
   color: #115e59;
+}
+.consultation-success-modal {
+  width: min(520px, 100%);
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+  padding: 2rem 1.75rem;
+}
+.consultation-success-modal h2 {
+  margin: 0;
+  font-size: 1.7rem;
+}
+.consultation-success-modal p {
+  margin: 0;
+  color: #475569;
+  line-height: 1.6;
+}
+.consultation-success-modal button {
+  width: 100%;
+}
+.consultation-success-mark {
+  width: 4rem;
+  height: 4rem;
+  margin: 0 auto;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(135deg, #0f766e, #14b8a6);
+  color: white;
+  font-size: 1.8rem;
+  font-weight: 700;
+  box-shadow: 0 16px 30px rgba(15, 118, 110, 0.22);
 }
 .consultation-summary {
   border: 1px solid #dbe7f2;
